@@ -1,6 +1,6 @@
 # WRF/WPS installer
 
-Installation scripts for WRF and WPS under Linux. All the scripts found here, builds the WRF and the main dependencies from source code.
+Installation scripts for [WRF](https://github.com/wrf-model/WRF) and [WPS](https://github.com/wrf-model/WPS) under Linux. All the scripts found here, builds the [WRF](https://github.com/wrf-model/WRF) and the main dependencies from source code.
 
 ### Sumary
 
